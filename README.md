@@ -14,10 +14,14 @@
 ---
 
 ## 🚀 About Me
-- **Founder of Vionest Guild** — a growing digital ecosystem.  
-- **Creator of OtokuVerse**, a manga/webtoon reading platform.  
-- Indie **game developer** working with Unity.  
-- Building tools, systems and workflows for scalable products.
+
+- **Founder of Vionest Guild** — an expanding digital ecosystem.  
+- Creator of **OtokuVerse**, a manga/webtoon reading platform currently live on Google Play.  
+- Developer of **Kitsuno Novel**, a write & read novel platform (in development).  
+- Working on **Echo Blade**, an action-adventure game prototype (Unity).  
+- Building **Turkish Bakkal Simulator**, a stylized simulation game.  
+- Experienced with **Flutter, Unity, SQL, PHP, Firebase, Backblaze B2**.  
+- Focused on scalable systems, clean UI/UX and high-quality product design.
 
 ---
 
@@ -25,7 +29,7 @@
 
 ### Languages & Frameworks  
 <div>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,js,python" height="45" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,php,js,python,html,css" height="45" />
 </div>
 
 ### Tools & Platforms  
@@ -33,36 +37,72 @@
   <img src="https://skillicons.dev/icons?i=unity,firebase,git,github,vscode,linux" height="45" />
 </div>
 
-### Cloud & Storage  
+### Databases & Cloud  
 <div>
-  <img src="https://skillicons.dev/icons?i=firebase" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
   <img src="https://img.shields.io/badge/Backblaze-B2-red?logo=backblaze&logoColor=white" height="30" />
 </div>
 
 ---
 
-## 📦 Featured Projects
+## 📦 My Projects
 
-### 🔹 **OtokuVerse Web**
-A full-platform manga/webtoon reader built with **Flutter Web**.  
-Features: authentication, reader engine, chapter/series system, B2 integration.
+### 🔹 **OtokuVerse** (Live)
+A fast and modern manga/webtoon reading platform on mobile & web.  
+- Flutter app with 100k+ users  
+- Web client (in development)  
+- Firebase Auth, B2 Storage, Adapty, AdMob integration  
+- Scalable backend structure  
 
-### 🔹 **Unity Game Projects**
-Working on adventure & action prototypes.  
-Systems: movement, abilities, interaction, UI, save/load.
+---
+
+### 🔹 **Kitsuno Novel** (In Development)
+A novel platform to **write, publish, and read stories**.  
+- Modern UI/UX  
+- Chapter-based structure  
+- Backend: PHP + SQL + Firebase hybrid  
+- Multi-language support planned  
+
+---
+
+### 🔹 **Echo Blade** (Unity Game – In Development)
+A stylized action-adventure game.  
+- Smooth movement system  
+- Abilities (magic casting)  
+- Interaction & dialogue system  
+- Mobile → PC scalability  
+
+---
+
+### 🔹 **Turkish Bakkal Simulator** (In Development)
+A cozy simulation game blending humor with Turkish culture.  
+- NPC interactions  
+- Shop management systems  
+- Inventory & customer AI  
+
+---
 
 ### 🔹 **Developer Tools**
-Utilities built for workflow automation:
-- Image renamer  
-- Backblaze B2 uploader  
-- Internal build helpers  
+Tools built to speed up production workflows:
+- **B2 Uploader GUI** (Python)  
+- **Image Renamer CLI**  
+- Internal automation scripts  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThorvynX&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorvynX&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
 ## 🌍 Connect with Me
 - **Website:** https://vionestguild.com  
 - **X (Twitter):** https://x.com/ThorvynX  
-- **Email:** izizamiles@gmail.com
+- **Email:** izizamiles@gmail.com  
 
 ---
 
