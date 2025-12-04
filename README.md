@@ -57,7 +57,7 @@ Utilities built for workflow automation:
 ## 🌍 Connect with Me
 - **Website:** https://vionestguild.com  
 - **X (Twitter):** https://x.com/ThorvynX  
-
+- izizamiles@gmail.com 
 ---
 
 <h3 align="center">"I have no enemies." — Thorfinn</h3>
