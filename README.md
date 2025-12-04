@@ -93,8 +93,32 @@ Tools built to speed up production workflows:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThorvynX&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorvynX&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThorvynX&show_icons=true&theme=tokyonight" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThorvynX&layout=compact&theme=tokyonight" height="165" alt="languages" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThorvynX&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThorvynX&theme=tokyonight&margin-w=10" alt="trophies" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThorvynX/ThorvynX/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
