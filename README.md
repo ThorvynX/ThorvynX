@@ -115,14 +115,6 @@ Tools built to speed up production workflows:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThorvynX/ThorvynX/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🌍 Connect with Me
 - **Website:** https://vionestguild.com  
 - **X (Twitter):** https://x.com/ThorvynX  
