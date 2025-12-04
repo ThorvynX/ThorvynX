@@ -1,7 +1,7 @@
-
-![MasterHead](https://x.com/ThorvynX/header_photo)
-
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGSScwb0gg3XA/profile-displaybackgroundimage-shrink_200_800/B56ZrrY2oIL8AU-/0/1764885754247?e=2147483647&v=beta&t=QWkq0bVPib2zpw8d9o2yPQJ-CvVq25uKfvhPJJUo9n0" 
+       alt="MasterHead" />
+</p>
 
 <h1 align="center">Hi, I'm <b>ThorvynX</b> 👋</h1>
 <h3 align="center">Founder & Lead Developer @ Vionest Guild</h3>
@@ -62,8 +62,13 @@ Utilities built for workflow automation:
 ## 🌍 Connect with Me
 - **Website:** https://vionestguild.com  
 - **X (Twitter):** https://x.com/ThorvynX  
-- izizamiles@gmail.com 
+- **Email:** izizamiles@gmail.com
+
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThorvynX&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+</p>
 
 <h3 align="center">"I have no enemies." — Thorfinn</h3>
 <p align="center">Building quietly. Growing steadily.</p>
